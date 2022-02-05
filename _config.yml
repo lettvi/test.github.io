@@ -1,11 +1,8 @@
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Vi Le
+affiliation: University of Washington
+email: vtl001@uw.edu
 keywords: minimal academic
-google_scholar: https://scholar.google.com/
-github_link: https://github.com/yaoyao-liu/minimal-light
-linkedin: https://www.linkedin.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=Mslx6vsAAAAJ&view_op=list_works&sortby=pubdate
 avatar: ./assets/img/avatar.png
 google_analytics: UA-111540567-4
 favicon: ./assets/img/favicon.png
